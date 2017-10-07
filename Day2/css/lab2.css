@@ -1,0 +1,29 @@
+body {
+	font-family: Tahoma;
+	font-size: 11px;
+}
+
+ul, li {
+	font-family: consolas;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.specialText {
+	color: red;
+	font-style: italic;
+}
+
+#textRedBold {
+	color: red;
+	font-style: bold;
+}
+
+#textGreenItalic {
+	color: green;
+	font-style: italic;
+	text-decoration: underline;
+}
